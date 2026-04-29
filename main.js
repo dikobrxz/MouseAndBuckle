@@ -22,9 +22,9 @@ function resizeCanvas() {
   
     var buildUrl = "Build";
     var config = {
-      dataUrl: buildUrl + "/SurgutBookBuild.data",
-      frameworkUrl: buildUrl + "/SurgutBookBuild.framework.js",
-      codeUrl: buildUrl + "/SurgutBookBuild.wasm",
+      dataUrl: buildUrl + "/MouseAndBuckle.data",
+      frameworkUrl: buildUrl + "/MouseAndBuckle.framework.js",
+      codeUrl: buildUrl + "/MouseAndBuckle.wasm",
       streamingAssetsUrl: "StreamingAssets",
       companyName: "endicomp",
       productName: "SurgutBook",
