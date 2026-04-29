@@ -27,7 +27,7 @@ function resizeCanvas() {
       codeUrl: buildUrl + "/MouseAndBuckle.wasm",
       streamingAssetsUrl: "StreamingAssets",
       companyName: "endicomp",
-      productName: "SurgutBook",
+      productName: "MouseAndBuckle",
       productVersion: "1.0",
       devicePixelRatio: 1
     };
