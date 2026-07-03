@@ -2,7 +2,7 @@ function resizeCanvas() {
     var canvas = document.getElementById('unity-canvas');
     var windowWidth = window.innerWidth;
     var windowHeight = window.innerHeight;
-    var targetRatio = 8 / 14;
+    var targetRatio = 8 / 7;
   
     var newWidth = windowWidth;
     var newHeight = newWidth / targetRatio;
